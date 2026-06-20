@@ -22,9 +22,9 @@ const Hero = () => {
       <div className="Hero-center">
         <div className="Hero-intro">
           {/* <span className="span1">Hi I Am </span>{" "} */}
-          <span className="span1">Rashi Singhal</span>
+          <span className="span1">HARJIKA Wires & Cables Pvt. Ltd.</span>
           <span className="span3">
-          Experienced web developer skilled in crafting user-friendly websites, optimizing performance, and building efficient, responsive web solutions.
+          Premium uPVC Conduit Pipes, Flexible Conduits, Modular Metal Boxes, and Electrical Accessories engineered for durability, safety, and performance.
             {/* Let me take a moment to
             introduce myself and share my educational journey.I completed my UG
             degree in BCA at R.K.S College of Arts and Science. I pursued PG
@@ -34,7 +34,7 @@ const Hero = () => {
             delve deeper into the MERN stack, which sparked my interest even
             more in full-stack development. */}
           </span>
-          <div className="f-icons">
+          {/* <div className="f-icons">
             <a className='trans' href="https://github.com/RashiSinghal1">
               {" "}
               <FaGithub className="img" />
@@ -46,7 +46,7 @@ const Hero = () => {
               {" "}
               <IoIosMail className="img"  />
             </a>
-          </div>
+          </div> */}
           <div className="Tec-class">
             {/* <div className="image-font">
               <span className="span6"> Tec Stack | </span> 
@@ -61,9 +61,9 @@ const Hero = () => {
             </div> */}
           </div>
           <div className="button-cv ">
-            <a href="/Resume.pdf" download>
+            <a href="../public/HARJIKA CATALOGUE.pdf" download>
               <button className="button-17" type="button">
-                Download CV
+                Download Catalogue
               </button>
             </a>
           </div>

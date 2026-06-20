@@ -10,18 +10,10 @@ const About = () => {
       <div className="About-center">
         <div className="About-intro">
           <span className="span1">
-            About <span className="span2">Me </span>
+            About <span className="span2">HARJIKA </span>
           </span>
           <span className="span3">
-          I am a skilled web developer with a strong foundation in Microsoft Azure, JavaScript, 
-          and web technologies. Currently working as an Associate Technical Engineer at Kyndryl, 
-          I manage Azure Virtual Desktop deployments, and optimize data management solutions. 
-          My projects, such as a dynamic portfolio site and a tourist guide platform, demonstrate 
-          my proficiency in React, HTML, CSS, and MySQL, alongside my ability to create immersive, 
-          interactive applications. Certified in Azure Fundamentals (AZ-900) and Azure Data 
-          Fundamentals (DP-900), I bring both technical skills and a commitment to high-quality 
-          solutions. With a Master’s in Computer Applications, I’m dedicated to delivering 
-          impactful, scalable solutions that drive value and efficiency.
+          HARJIKA Wires & Cables Pvt. Ltd. is committed to delivering high-quality electrical conduit systems and accessories that ensure safety, reliability, and long-lasting performance. With a focus on innovation, quality manufacturing, and customer satisfaction, we provide trusted solutions for residential, commercial, and industrial electrical installations.
           </span>
         </div>
         <div className="About-froend">
