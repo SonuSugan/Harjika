@@ -1,11 +1,11 @@
 const pipwire = [
-  "../public/pipeandwire/pipe1.png",
-  "../public/pipeandwire/pipe2.png",
-  "../public/pipeandwire/pipe3.png",
-  "../public/pipeandwire/pipe4.png",
-  "../public/pipeandwire/pipe5.png",
-  "../public/pipeandwire/pipe6.png",
-  "../public/pipeandwire/pipe7.png"
+  "/pipeandwire/pipe1.png",
+  "/pipeandwire/pipe2.png",
+  "/pipeandwire/pipe3.png",
+  "/pipeandwire/pipe4.png",
+  "/pipeandwire/pipe5.png",
+  "/pipeandwire/pipe6.png",
+  "/pipeandwire/pipe7.png"
 ];
 
 export default pipwire;
