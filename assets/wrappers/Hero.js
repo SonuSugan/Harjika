@@ -7,7 +7,6 @@ const Wrapper = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: space-between;
-    /* height: 100vh; */
     gap: 2rem;
     height: 80vh;
   }
@@ -48,12 +47,8 @@ const Wrapper = styled.div`
   }
   .Hero-boy > img {
     width: 100%;
-    /* height: 100%; */
     display: block;
     margin: 0 auto;
-    /* box-shadow: 0 2px 3px 0 rgb(60 64 67 / 30%),
-      0 1px 15px 1px rgb(60 64 67 / 15%); */
-      /* filter: drop-shadow( 10px 7px 10px white); */
   }
   .f-icons {
     margin: 5px !important;
@@ -66,21 +61,15 @@ const Wrapper = styled.div`
     width: 50px;
     height: 50px;
     object-fit: cover;
-    /* background-color: transparent !important; */
   }
 a{
   color: white;
 }
-  /* #boy{
-    position: relative;
-    filter: drop-shadow(30px 10px 4px #4444dd);
-  } */
+
   .image-font {
     color: var(--black);
     font-weight: bold;
     font-size: 1.5rem;
-    /* margin-bottom: 0.1rem; */
-    /* text-shadow: var(--boxShadow); */
   }
 
   .images > img {

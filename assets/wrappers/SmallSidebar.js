@@ -16,7 +16,6 @@ const Wrapper = styled.aside`
     opacity: 0;
     transition: var(--transition);
     visibility: hidden;
-    /* background-color: white !important; */
   }
   .show-sidebar {
     z-index: 99;
@@ -29,7 +28,6 @@ const Wrapper = styled.aside`
     background-color: white !important;
     background: var(--background-secondary-color);
     width: var(--fluid-width);
-    /* height: 70vh; */
     border-radius: var(--border-radius);
     padding: 2rem 2rem;
     position: relative;
@@ -63,7 +61,6 @@ const Wrapper = styled.aside`
     padding: 1rem 0;
     padding-left: 2.5rem;
     text-transform: capitalize;
-    /* transition: var(--transition); */
   }
   .scroll-link:hover {
     color: var(--blue);
@@ -83,7 +80,6 @@ const Wrapper = styled.aside`
   }
   .white{
     background-color: white !important;
-    /* color: aliceblue !important; */
   }
   svg{
     background-color: white !important;

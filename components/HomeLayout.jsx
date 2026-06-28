@@ -34,15 +34,6 @@ const HomeLayout = () => {
               <div id="about">
                 <About />
               </div>
-              <div id="project">
-                <Project />
-              </div>
-              <div id="work">
-                <Work />
-              </div>
-              {/* <div id="contact">
-                <Contact />
-              </div> */}
               <Footer />
             </div>
           </div>
@@ -55,5 +46,3 @@ const HomeLayout = () => {
 export const useDashboardContext = () => useContext(DashboardContext);
 
 export default HomeLayout;
-
-// little alingment need in contatc us and about page 

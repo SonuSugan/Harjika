@@ -7,9 +7,14 @@ import { IoIosMail } from "react-icons/io";
 const Footer = () => {
   return (
     <Wrapper>
-      <div className="footer">
+      <div className="footer">  
+        <div className="topfooter">
+        <span className="footer-title">Contact US</span>
+        </div>
+        
         {/* <img src="wave.png" alt="" /> */}
-        <div className="f-content">
+        <div className="">
+          {/* <span>Connect with me:</span> */}
           {/* <span>rashisingha143@gmail.com</span> */}
           <div className="f-icons">
             <a className='trans' href="https://github.com/RashiSinghal1">
@@ -19,7 +24,7 @@ const Footer = () => {
             <a className='trans' href="https://www.linkedin.com/in/rashi-singhal-a99779247/">
               <FaLinkedin className="img" />
             </a>
-            <a className='trans' href="mailto:rashisingha143@gmail.com">
+            <a className='trans' href="mailto:harjikawiresandcables@gmail.com">
               {" "}
               <IoIosMail className="img"  />
             </a>

@@ -6,8 +6,6 @@ const Wrapper = styled.div`
     grid-template-columns: 1fr;
   }
   .Content {
-    /* width: 95%; */
-    
     
   }
 `;

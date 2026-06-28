@@ -35,12 +35,6 @@ const Project = () => {
                   <FaGithub className="white"/> Code
                 </button>
               </a>
-              {/* <a href=" ">
-                <button className="button-17">
-                  {" "}
-                  <FaRegCirclePlay /> Demo{" "}
-                </button>
-              </a> */}
             </div>
           </div>
         </div>
@@ -66,12 +60,6 @@ const Project = () => {
                   <FaGithub className="white"/> Code
                 </button>
               </a>
-              {/* <a href="">
-                <button className="button-17">
-                  {" "}
-                  <FaRegCirclePlay /> Demo{" "}
-                </button>
-              </a> */}
             </div>
           </div>
         </div>

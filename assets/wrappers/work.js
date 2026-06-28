@@ -1,10 +1,8 @@
 import styled from "styled-components";
 
 const Wrapper = styled.div`
-  /* height: 50vh; */
   margin-top: 3rem;
   .Work {
-    /* display: flex; */
     padding: 4% 5%;
     overflow: hidden;
   }
@@ -13,11 +11,8 @@ const Wrapper = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: center;
-    /* height: 100vh; */
     padding: 3% 2%;
     gap: 2rem;
-    /* height: 30vh; */
-    /* width: 90%; */
   }
 
   .Work-intro {
@@ -29,14 +24,9 @@ const Wrapper = styled.div`
     align-items: center;
   }
   .container {
-    /* border: 2px solid black; */
     display: flex;
     padding: 2% 2%;
-    /* backdrop-filter: var(--blue) saturate(180%) blur(10px); */
-    /* background-color: var(--blue); */
-    /* background: var(--blue3); */
     justify-content: center;
-    /* text-align: center; */
     align-items: center;
   }
 

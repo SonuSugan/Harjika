@@ -1,11 +1,8 @@
 import styled from "styled-components";
 
 const Wrapper = styled.div`
-  /* height: 50vh; */
   margin-top: 4rem;
-  /* background-color: var(--back-gro); */
   .Project {
-    /* display: flex; */
     padding: 4% 5%;
     overflow: hidden;
   }
@@ -14,25 +11,16 @@ const Wrapper = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: center;
-    /* height: 100vh; */
     padding: 3% 2%;
     gap: 2rem;
-    /* height: 30vh; */
-    /* width: 90%; */
   }
 
   .Project-intro {
     /* display: flex; */
     justify-content: center;
-    /* flex-direction: column; */
-    /* border: 2px solid black; */
   }
   .container {
-    /* border: 2px solid black; */
     padding: 2% 2%;
-    /* backdrop-filter: var(--white) saturate(150%) blur(1px); */
-    /* background-color: var(--blue); */
-    /* background: var(--blue3); */
     justify-content: center;
     text-align: center;
     border-radius: 15px;
